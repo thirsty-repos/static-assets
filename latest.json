@@ -1,0 +1,11 @@
+{
+ "format": 1,
+ "channel": "stable",
+ "published": "2026-11-14T19:53:44Z",
+ "catalogue": {
+  "version": "2026.11.14.1953",
+  "manifest": "catalogue/catalogue-2026.11.14.1953.json",
+  "sha256": "5d5b9700f77b7966f8e534130a62fe8a11edc52a824300cfaa3008c65fc3598d",
+  "files": 491
+ }
+}
