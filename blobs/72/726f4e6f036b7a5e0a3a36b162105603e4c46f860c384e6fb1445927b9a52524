@@ -1,0 +1,5 @@
+﻿{
+ "version": "2026.11.14.3",
+ "TYPE_ALIAS": { "A319": "A320", "A318": "A320" },
+ "_note": "Match rules that update without a new app. Only changes go here: REG_KEY / CALLSIGN_KEY / TYPE_KEY (registration, callsign or type -> picture key, null deletes), TYPE_ALIAS, OP_ALIAS, PREFIX_NAMES, TRUST_OWN, NON_AIRLINE; lists to add to: HI_WING ME_PROP FASTJET MIL_TRAIN HELI_LIGHT BIZ HEAVY_BIZ MIL_TRANS WARBIRD CLASSIC_JET; FAMILIES (extra rows). The tables in match.js are the baseline. 14 Nov: A319 and A318 use the A320 picture (they are the original-engine short A320s); there are no A319/A318 pictures, and before this a BA A319 fell back to the A320neo picture."
+}
